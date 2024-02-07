@@ -1,0 +1,11 @@
+body {
+    background-image: url('Assests/Weather3.jpg'); /* URL to your background image */
+    background-size: cover; /* Cover the entire viewport */
+    background-position: center; /* Center the background image */
+}
+
+
+#logo{
+width:40px;
+height:40px;
+}
